@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center">Simple Article Listing | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/simple-article-listing" target="_blank">Simple Article Listing</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://simple-article-listing.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/att-avotra/simple-article-listing">
       Solution
     </a>
     <span> | </span>
@@ -49,38 +49,44 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### What I learned
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+During this project, I improved my understanding of:
+
+- Responsive web design using media queries
+- Flexbox layout techniques for creating flexible component layouts
+- Mobile-first design approach
+- Semantic HTML structure
+- CSS best practices for maintainable stylesheets
 
 ### Useful resources
 
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
+- [MDN Web Docs - Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) - Comprehensive guide on media queries and responsive design
+- [CSS-Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Excellent reference for flexbox properties
+- [Google Fonts](https://fonts.google.com) - For typography and font selection
 
 ### Built with
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- CSS3 with media queries
+- Flexbox layout
+- Google Fonts (Lexend)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- Responsive design that adapts to mobile (412px), tablet (1024px), and desktop (1350px) viewports
+- Clean layout with horizontal articles listing on desktop
+- Vertical article layout on mobile for better readability
+- Modern typography with Lexend font
+- Smooth and professional appearance with proper spacing
+- Semantic HTML structure for accessibility
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+- [DevChallenges.io](https://devchallenges.io) - For providing this great design challenge
+- Google Fonts for the Lexend typeface
+- The web development community for continued learning resources
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@att-avotra](https://github.com/att-avotra)
