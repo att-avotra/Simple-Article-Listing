@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/att-avotra/simple-article-listing">
+    <a href="https://github.com/att-avotra/Simple-Article-Listing">
       Solution
     </a>
     <span> | </span>
